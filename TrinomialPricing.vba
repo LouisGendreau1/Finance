@@ -1,9 +1,8 @@
 Option Explicit
 Option Base 0
 
-'Devoir 3
 'Programmation de modèles quantitatifs en finance
-'Louis Gendreau, 11205384
+'Louis Gendreau
 'HEC Montréal, Automne 2017
 
 Function Trinomial_Am(S, X, T, rf, sigma, n)
